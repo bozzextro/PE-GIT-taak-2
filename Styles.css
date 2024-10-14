@@ -42,3 +42,17 @@ body
     text-decoration: none; 
     font-size: 14pt;
 }
+.sign-in-btn {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px; 
+    border: none; 
+    font-size: 14pt;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+}
+
+.sign-in-btn:hover {
+    background-color: darkred;
+}
