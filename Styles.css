@@ -9,4 +9,9 @@
     width: 100%;
 }
 
-
+#Logo
+{
+    display: flex;
+    max-width: 50px;
+    height: auto;
+}
